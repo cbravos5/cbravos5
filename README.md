@@ -26,7 +26,7 @@
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
 ![Ruby On Rails](https://img.shields.io/badge/-Ruby_on_Rails-ffffff?style=flat-square&logo=ruby-on-rails&logoColor=B31E1E)
 
-**Current Studying**
+**Currently Studying**
 
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat-square&logo=typescript)
