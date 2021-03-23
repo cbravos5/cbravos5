@@ -1,12 +1,12 @@
 
-![Header](cb-gif.gif)]
+![Header](cb-gif.gif)
 
-![Personal Page](https://img.shields.io/badge/-Personal_Page-000000?style=for-the-badge&logo=javascript&logoColor=white)](https://www.inf.ufpr.br/cnb18/)
+[![Personal Page](https://img.shields.io/badge/-Personal_Page-000000?style=for-the-badge&logo=javascript&logoColor=white)](https://www.inf.ufpr.br/cnb18/)]
 
 ## Contact
 
-![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chrystopher-bravos-3252041bb//)](https://www.linkedin.com/in/chrystopher-bravos-3252041bb/)
-![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cnbravos5@gmail.com)](mailto:cnbravos5@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chrystopher-bravos-3252041bb//)](https://www.linkedin.com/in/chrystopher-bravos-3252041bb/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cnbravos5@gmail.com)](mailto:cnbravos5@gmail.com)]
 
 **Languages I have used**
 
