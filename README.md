@@ -1,12 +1,12 @@
 
-[![Header](cb-gif.gif)]
+![Header](cb-gif.gif)]
 
-[![Personal Page](https://img.shields.io/badge/-Personal_Page-000000?style=for-the-badge&logo=javascript&logoColor=white)](https://www.inf.ufpr.br/cnb18/)
+![Personal Page](https://img.shields.io/badge/-Personal_Page-000000?style=for-the-badge&logo=javascript&logoColor=white)](https://www.inf.ufpr.br/cnb18/)
 
 ## Contact
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chrystopher-bravos-3252041bb//)](https://www.linkedin.com/in/chrystopher-bravos-3252041bb/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cnbravos5@gmail.com)](mailto:cnbravos5@gmail.com)
+![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chrystopher-bravos-3252041bb//)](https://www.linkedin.com/in/chrystopher-bravos-3252041bb/)
+![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cnbravos5@gmail.com)](mailto:cnbravos5@gmail.com)
 
 **Languages I have used**
 
@@ -16,7 +16,6 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![Ruby](https://img.shields.io/badge/-Ruby-ffffff?style=flat-square&logo=ruby&logoColor=B31E1E)
-![Ruby On Rails](https://img.shields.io/badge/-Ruby_on_Rails-ffffff?style=flat-square&logo=ruby-on-rails&logoColor=B31E1E)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
 
 **Some of the technologies I have worked with**
@@ -25,6 +24,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![jQuery](https://img.shields.io/badge/-jQuery-000000?style=flat&logo=jQuery&logoColor=0769AD)
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
+![Ruby On Rails](https://img.shields.io/badge/-Ruby_on_Rails-ffffff?style=flat-square&logo=ruby-on-rails&logoColor=B31E1E)
 
 **Current Studying**
 
