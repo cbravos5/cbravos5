@@ -14,7 +14,7 @@
 ![C](https://img.shields.io/badge/-A8B9CC?style=flat-square&logo=c&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat-square&logo=typescript)
 ![Ruby](https://img.shields.io/badge/-Ruby-ffffff?style=flat-square&logo=ruby&logoColor=B31E1E)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
 
@@ -22,14 +22,17 @@
 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=Express&logoColor=white)
+![TypeORM](https://img.shields.io/badge/-TypeORM-000000?style=flat&logo=TypeORM)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![jQuery](https://img.shields.io/badge/-jQuery-000000?style=flat&logo=jQuery&logoColor=0769AD)
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
 ![Ruby On Rails](https://img.shields.io/badge/-Ruby_on_Rails-ffffff?style=flat-square&logo=ruby-on-rails&logoColor=B31E1E)
 
 **Currently Studying**
 
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat-square&logo=typescript)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=Express&logoColor=white)
 ![TypeORM](https://img.shields.io/badge/-TypeORM-000000?style=flat&logo=TypeORM)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
