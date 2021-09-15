@@ -37,3 +37,4 @@
 
 ![Next.js](https://img.shields.io/badge/-Next.js-white?style=flat-square&logo=Next.js&logoColor=black)
 ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=Amazon-AWS&logoColor=232F3E)
+![Elixir](https://img.shields.io/badge/-Elixir-FFFFFF?style=flat-square&logo=Elixir&logoColor=4B275F)
