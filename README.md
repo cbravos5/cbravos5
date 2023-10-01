@@ -36,6 +36,4 @@
 
 **Currently Studying**
 
-![Java](https://img.shields.io/badge/-Java-white?style=flat-square&logo=oracle&logoColor=orange)
-![Spring](https://img.shields.io/badge/-Spring%20Boot-black?style=flat-square&logo=springboot)
-![Neo4j](https://img.shields.io/badge/-neo4j-black?style=flat-square&logo=neo4j)
+![Java](https://img.shields.io/badge/-Rust-white?style=flat-square&logo=rust&logoColor=orange)
